@@ -6,6 +6,9 @@ Data used:- https://www.kdef.se/download-2/index.html
 For the model and My datasets follow the mentioned gdrive link:
 https://drive.google.com/drive/folders/1xn_H-ZIcEtOPT91PUqFlykbxbnw58wDh?usp=sharing
 
+For my google colab notebook follow the link mentioned below:
+https://colab.research.google.com/drive/1aLExk3lkBZ8uyebzyh4AECyN4kk6c5Sw
+
 
 Some Screenshots:-
 
