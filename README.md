@@ -17,5 +17,3 @@ Some Screenshots:-
 <img src="https://github.com/djsahu/Emotion_Detection/blob/master/happy.png" width="700" height="500">
 <br>
 <img src="https://github.com/djsahu/Emotion_Detection/blob/master/Surprise.png" width="700" height="500">
-<br>
-<img src="https://github.com/djsahu/Emotion_Detection/blob/master/Neutal.png" width="700" height="500">
